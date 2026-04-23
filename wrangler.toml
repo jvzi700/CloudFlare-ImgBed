@@ -1,13 +1,2 @@
 name = "cloudflare-imgbed"
 compatibility_date = "2026-04-23"
-
-[[r2_buckets]]
-binding = "BUCKET"
-bucket_name = "my-images"
-
-[[kv_namespaces]]
-binding = "img_url"
-id = "4821081e136a43fcbfb4ebb1463c306b"
-
-[vars]
-PASSWD = "70025528"
