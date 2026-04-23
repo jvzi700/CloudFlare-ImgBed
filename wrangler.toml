@@ -8,4 +8,4 @@ bucket_name = "my-images"
 
 [[kv_namespaces]]
 binding = "IMG_BED"
-id = "4821081e136a43cfbfb4ebb1463c306b"
+id = "4821081e136a43fcbfb4ebb1463c306b"
