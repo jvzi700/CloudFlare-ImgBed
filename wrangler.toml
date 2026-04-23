@@ -1,6 +1,5 @@
 name = "cloudflare-imgbed"
 compatibility_date = "2026-04-23"
-pages_build_output_dir = "."
 
 [[r2_buckets]]
 binding = "BUCKET"
